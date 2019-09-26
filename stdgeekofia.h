@@ -2,5 +2,6 @@
 #define SMILEY "\u263A "
 
 #include <stdio.h>
+#include <string.h>
 
 #include CUSTOM_FNS
